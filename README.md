@@ -4,6 +4,8 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
 
+As stated above, this is for test.
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -11,3 +13,5 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 ## Deployment
+
+This is a simple web project. Deployment can be any web server or even local file system.
