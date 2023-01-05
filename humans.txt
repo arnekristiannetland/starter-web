@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Terje Johnsen -- terje@johnsen.no -- @awesometj
 
 # THANKS
 
